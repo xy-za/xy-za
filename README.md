@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-- I'm a student at the university of amsterdam studying data science 
+# - I'm a student at the University of Amsterdam studying data science 
